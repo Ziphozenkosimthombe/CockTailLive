@@ -5,6 +5,12 @@
     }
 
 }
+@media screen and (max-width:1370px){
+    .btn{
+        margin-right: 5%;
+
+    }
+}
 
 @media screen and (max-width:1020px){
     input{
@@ -33,9 +39,6 @@
     }
     .btn{
         margin-left: 5%;
-    }
-    .btn-continue{
-        margin-left: 10%;
     }
     h3, h4{
         margin-left: 5%;
