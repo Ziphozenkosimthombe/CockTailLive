@@ -1,0 +1,89 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* h1, input, h2, span, h5, .btn, h3{
+  margin-left: 40%;
+}
+.btn{
+  margin-left: 25%;
+}
+h3{
+  margin-left: 20%;
+} */
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+  @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@200&family=Oswald:wght@300;400;500;600&family=Poppins:wght@300;400;500;600&family=Roboto+Slab&family=Roboto:wght@400;700&family=Source+Sans+3&display=swap');
+
+
+body{
+  background-image: url('https://media.istockphoto.com/id/680866296/photo/barman-is-making-cocktail-at-night-club.webp?b=1&s=170667a&w=0&k=20&c=3BXfffiu5i4BiU_hPWckC4fW2RNmTlumvH3iV4Al9VY=')
+}
+
+
+h1, input, h2, img, h3, h4{
+  margin-left: 30%;
+}
+
+h4{
+  color:rgba(245, 40, 145, 0.8);
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 3.2rem;
+  color:rgba(0, 119, 111, 1);
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn, .btn-continue{
+  font-size: 1.7rem;
+  margin-left: 0 auto;
+}
+
+.btn{
+  color:rgba(253, 17, 0, 1);
+}
+
+.btn-continue{
+  color:rgba(53, 0, 253, 1);
+}
+
+h2{
+  color:rgba(132, 253, 0, 1);
+  font-size: 3.2rem;
+}
+
+input, .get{
+  font-size: 3.2rem;
+}
+.get{
+  color: rgba(158, 150, 215, 0.8);
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+h1{
+  color: rgba(255, 0, 0, 0.8);
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 3.5rem;
+
+}
+
+.emoji{
+  width:10%;
+  margin-right: 5%;
+}

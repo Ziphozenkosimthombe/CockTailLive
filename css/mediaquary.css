@@ -1,0 +1,41 @@
+@media screen and (max-width:1445px){
+    input, .get{
+        font-size: 2.2rem;
+
+    }
+
+}
+
+@media screen and (max-width:1020px){
+    input{
+        font-size: 1.5rem;
+        margin-left: 5%;
+    }
+    .get{
+        font-size: 1.5rem;
+    }
+    h1{
+        font-size:2rem;
+        margin-left: 5%;
+        margin-bottom: 10%;
+    }
+    .emoji{
+        margin-right: 5%;
+    }
+
+    h2{
+        margin-left: 5%;
+        font-size: 2rem;
+    }
+    .main{
+        margin-left: 5%;
+        width: 75%;
+    }
+    .btn{
+        margin-left: 5%;
+    }
+    h3, h4{
+        margin-left: 5%;
+        font-size: 2rem;
+    }
+}
