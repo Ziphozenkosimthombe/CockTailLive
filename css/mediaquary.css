@@ -33,7 +33,9 @@
     }
     .btn{
         margin-left: 5%;
-        font-size:0.1rem;
+    }
+    .btn-continue{
+        margin-left: 10%;
     }
     h3, h4{
         margin-left: 5%;
