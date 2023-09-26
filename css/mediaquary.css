@@ -46,6 +46,10 @@
         margin-left: 5%;
         font-size: 1.5rem;
     }
+    .btn, .btn-continue{
+        width:90%;
+        margin-left: 5%;
+    }
     
 }
     
