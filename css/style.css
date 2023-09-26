@@ -52,11 +52,13 @@ h3{
 
 .btn, .btn-continue{
   font-size: 1.7rem;
-  margin-left: 0 auto;
+  /* margin-left: 0 auto; */
 }
 
 .btn{
   color:rgba(253, 17, 0, 1);
+  border: 5px solid black;
+
 }
 
 .btn-continue{
