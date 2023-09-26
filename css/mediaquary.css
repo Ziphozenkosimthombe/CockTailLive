@@ -45,3 +45,14 @@
         font-size: 2rem;
     }
 }
+
+@media screen and(max-width: 320px){
+    .get{
+        margin-left: 5%;
+        width:100px;
+    }
+    .btn-continue{
+        margin-left: 5%;
+        width:60%;
+    }
+}
