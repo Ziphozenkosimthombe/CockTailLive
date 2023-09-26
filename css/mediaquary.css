@@ -40,7 +40,7 @@
     }
 }
 
-@media screen and (max-width:544px){
+@media screen and (max-width:560px){
     .get,input{
         width: 67%;
         margin-left: 5%;
@@ -48,12 +48,10 @@
     }
     
 }
+    
 @media screen and (max-width:492px){
     .btn-continue{
         margin-left: 5%;
-    }
-    .btn{
-        margin-left: 10%;
     }
     
 }
