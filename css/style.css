@@ -12,6 +12,10 @@ body{
 main{
   margin: 0 50px;
 }
+.main{
+  height:50%;
+  width:50%;
+}
 
 
 h4{
