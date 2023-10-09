@@ -1,0 +1,9 @@
+@media screen and (max-width:480px){
+    input, .get{
+        width:50%;
+    }
+    .btn, .btn-continue{
+        width:50%;
+    }
+    
+}
